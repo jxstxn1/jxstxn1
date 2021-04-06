@@ -9,12 +9,8 @@
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better <3
 
 <details>
-
-<summary>Wanna Know More About Me or</summary>
-<details>
-<summary>Wanna Contact Me</summary>
+<summary>Wanna Know More About Me or wanna Contact Me</summary>
 <br>
 Click <a href="https://linktr.ee/jxstxn.__">here</a>.
-</details>
 </details>
 <p align="center">© jxstxn.__</p>
