@@ -1,6 +1,6 @@
 # Hey Guys! <img src="Hi.gif" width="28px">
 
-𝗜'𝗺 [jxstxn.__](https://github.com/jxstxn)! <b>Software Developer and Tech enthusiast</b>
+𝗜'𝗺 [jxstxn.__](https://github.com/jxstxn1)! <b>Software Developer and Tech enthusiast</b>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jxstxn1&show_icons=true&hide_border=true">
 
