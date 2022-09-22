@@ -1,14 +1,40 @@
-# Hey Guys! <img src="Hi.gif" width="28px">
+<h1 align="center"> Hi there. Nice to see you 👋 I'm Justin </h1>
 
-𝗜'𝗺 [Justin](https://github.com/jxstxn1)! Also known as jxstxn.__. <b>Im a Software Developer and Tech enthusiast</b>
-A young guy who ❤️ to programm, listen to music 🎵 and design mobile apps<br> Focused to mobile development
-<b>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better <3</b>
+<h3 align="center"> I'm a Software Developer ⸜(ؔᶿധؔᶿ)⸝ </h2>
 
-<b>Wanna Know More About Me or wanna Contact Me</b>
 
-<b>Click <a href="https://linktr.ee/jxstxn.__">here</a>.</b>
-</details>
-<p align="left">© jxstxn.__</p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jxstxn1&show_icons=true&hide_border=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxstxn1">
 
+- 🔭 I’m working at [phntm](https://phntm.xyz)
+- 🌱 I’m currently learning more about [APIs], [Dart] and Web Security
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about anything
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/justin-baumann-flutter/) 
+
+<br />
+
+## Languages and Tools <a href="">
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="40"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="40"></a>
+<a href="https://developer.mozilla.org/de/docs/Web/JavaScript"><img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="40"></a>
+<a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="40"></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="40"></a>
+<a href="https://dart.dev/"><img alt="Dart" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" align="left" height="40"></a>
+<a href="https://flutter.dev/"><img alt="Flutter" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" align="left" height="40"></a>
+<a href="https://tailwindcss.com/"><img alt="Tailwind" src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" align="left" width="40"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoSB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" align="left" width="40"></a>
+<a href="https://nodejs.org/en/about/"><img alt="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="40"></a>
+<a href="http://expressjs.com/en/starter/installing.html"><img alt="ExpressJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" align="left" width="40"></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="left" width="40"></a>
+<a href="https://github.com
+"><img alt="GitHub" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202098codedevelopergithublogo-115590_115711.png" align="left" width="40"></a>
+<a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" align="left" width="40"></a>
+
+<br />
+<br />
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=jxstxn1&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jxstxn1&theme=dark" width="45%" >
