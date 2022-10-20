@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning more about [APIs], [Dart] and Web Security
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
-- 💌 Send Love Letters on [Twitter](https://twitter.com/jxstxn_____) or contact me via [Email](dev.jxstxn@google.com) 
+- 💌 Send Love Letters on [Twitter](https://twitter.com/jxstxn_____) or contact me via [Email](mailto:dev.jxstxn@google.com) 
 
 <br />
 
