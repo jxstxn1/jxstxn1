@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m working at [Orthopy](https://orthopy.de)
+- 🔭 I’m working at [GoLeasy](https://goleasy.de)
 - 🌱 I’m currently learning more about [APIs], [Dart] and Web Security
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
